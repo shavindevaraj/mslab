@@ -7,7 +7,7 @@ Dependencies
 	- MySQL Driver
 
 http://localhost/phpmyadmin/
-chmod 7000 mvnw
+chmod 700 mvnw
 npm init -y
 npm install express--save
 "scripts":{
