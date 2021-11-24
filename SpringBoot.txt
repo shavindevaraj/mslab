@@ -7,5 +7,11 @@ Dependencies
 	- MySQL Driver
 
 http://localhost/phpmyadmin/
+chmod 7000 mvnw
+npm init -y
+npm install express--save
+"scripts":{
+	"start":"node get_ex1.js"
+	},
 
 ./mvnw spring-boot:run
